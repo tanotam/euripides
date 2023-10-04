@@ -1,7 +1,7 @@
 from user import User
 from pyvis.network import Network
 
-user_id = None
+user_id = None # Put user_id you need here
 user = User(user_id)
 data = user.get_user_friends(user_id)
 

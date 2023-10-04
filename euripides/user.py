@@ -1,7 +1,7 @@
 import vk_api
 from config import token
 
-session = vk_api.VkApi(token=token)
+session = vk_api.VkApi(token=token) # Check config.py
 vk = session.get_api()
 
 

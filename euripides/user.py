@@ -5,7 +5,7 @@ session = vk_api.VkApi(token=token) # Check config.py
 vk = session.get_api()
 
 
-class User():
+class User:
 
     def __init__(self, user_id):
         self.user_id = user_id

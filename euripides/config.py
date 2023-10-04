@@ -1,1 +1,1 @@
-token = None
+token = None #VK API token put here

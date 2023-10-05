@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 ### Запуск
 ```
-cd drom_parce
+cd euripides
 python visualise.py
 ```
 ### Представленные связи будут сохранены в файле graph.html
